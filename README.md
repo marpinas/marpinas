@@ -1,6 +1,5 @@
-### Hi there 👋
 
-### ¡Hola a todos! Mi nombre es Mª del Mar Piñas Moreno. 👋
+### ¡Hola a todos! Soy Mar Piñas. 👋
 
 ## Soy desarrolladora de Software, analista e Ingeniera de Integración.
 
