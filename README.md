@@ -31,8 +31,8 @@
 
 
 
+### Perfil de LinkedIn:
 
-- Este es mi perfil de linkedin:
  https://www.linkedin.com/in/marpinas/
 
 ---
