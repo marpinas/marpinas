@@ -31,9 +31,10 @@ __Generales:__
 
 ---
 
-
+- Este es mi perfil de linkedin:
+  
 [linkedin]: https://www.linkedin.com/in/marpinas/
-[cursoGit&GitHub]: https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF
+
 
 
 
