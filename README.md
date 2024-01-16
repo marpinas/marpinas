@@ -5,10 +5,7 @@
 ## Soy desarrolladora de Software, analista e Ingeniera de Integración.
 
 
-## 🔎 Mis estadisticas:
-<details>
-    <summary>🔎 Ver</summary>
-    
+## 🔎 Mis estadisticas:    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marpinas&show_icons=true&theme=tokyonight)
 
 
