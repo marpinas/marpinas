@@ -32,7 +32,7 @@ __Generales:__
 ---
 
 - Este es mi perfil de linkedin:
-  ![linkedin](https://www.linkedin.com/in/marpinas/)
+  ![linkedin] (https://www.linkedin.com/in/marpinas/)
 
 ---
 
