@@ -20,6 +20,7 @@
 
 - Oracle
 - Linux
+- Cobol Microfocus
 - Git y GitHub
 - Jenkins
 - Visual Studio Code
