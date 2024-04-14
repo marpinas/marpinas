@@ -12,7 +12,7 @@
 - Estos son algunos de mis últimos cursos realizados:
 - 👉[Oracle PL/SQL avanzado]
 - 👉[Curso de Git & GitHub]
-
+- 👉[Curso Domina Github Actions]
 
 
 ### Lenguajes y Herramientas que utilizo:
