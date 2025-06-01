@@ -24,7 +24,6 @@
 - Jenkins
 - Visual Studio Code
 - Jira
-- Jenkins
 - Sourcetree
 - Cyberark
 - Tibco BW
