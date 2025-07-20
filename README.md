@@ -22,6 +22,7 @@
 - Cobol Microfocus
 - Git y GitHub
 - Jenkins
+- Gluón
 - Visual Studio Code
 - Jira
 - Sourcetree
