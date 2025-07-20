@@ -25,6 +25,7 @@
 - Gluón
 - Visual Studio Code
 - Jira
+- ServiceNow
 - Sourcetree
 - Cyberark
 - Tibco BW
